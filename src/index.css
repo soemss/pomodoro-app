@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: "Lato", Roboto !important;
+  src: local("Lato"), url("./fonts/Lato-Regular.ttf") format("truetype");
+  color:#e8e6e3;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: #101213; */
+  background-color: #040404;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
