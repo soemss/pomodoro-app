@@ -1,15 +1,15 @@
 .timer {
-  padding: 70px 0;
   border: 3px;
+  align-items: center;
   text-align: center;
   font-size: 150px;
   color: #e8e6e3;
 }
 
 .button {
-  padding: 10px 80px;
-  display: grid;
-  color:black;
+  padding:12px 90px;
+  display: flex;
+  width: 75%;
 }
 
 .text {

@@ -50,14 +50,16 @@ const Timer = () => {
     }
     console.log(phase);
   }
+  const minutes = ("0" + Math.floor((time / 60000) % 60)).slice(-2);
+  const seconds = ("0" + Math.floor((time / 1000) % 60)).slice(-2);
   return (
     <div className="timer">
-      <span>{("0" + Math.floor((time / 60000) % 60)).slice(-2)}:</span>
-      <span>{("0" + Math.floor((time / 1000) % 60)).slice(-2)}</span>
+      <span>
+        {minutes}:{seconds}
+      </span>
       <Helmet>
         <title>
-          {("0" + Math.floor((time / 60000) % 60)).slice(-2)}:
-          {("0" + Math.floor((time / 1000) % 60)).slice(-2)} - pomodoro
+        {minutes}:{seconds} - pomodoro
         </title>
       </Helmet>
       <div className="button">
