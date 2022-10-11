@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/pomodoro-app/static/css/main.92586a70.css",
+    "main.js": "/pomodoro-app/static/js/main.ca199e85.js",
+    "static/js/787.a4652825.chunk.js": "/pomodoro-app/static/js/787.a4652825.chunk.js",
+    "static/media/alarm-digital.mp3": "/pomodoro-app/static/media/alarm-digital.a03a2b188cf0af264292.mp3",
+    "static/media/Lato-Regular.ttf": "/pomodoro-app/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "index.html": "/pomodoro-app/index.html",
+    "main.92586a70.css.map": "/pomodoro-app/static/css/main.92586a70.css.map",
+    "main.ca199e85.js.map": "/pomodoro-app/static/js/main.ca199e85.js.map",
+    "787.a4652825.chunk.js.map": "/pomodoro-app/static/js/787.a4652825.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92586a70.css",
+    "static/js/main.ca199e85.js"
+  ]
+}
