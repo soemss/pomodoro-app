@@ -7743,6 +7743,14 @@ react-side-effect@^2.1.0:
   resolved "https://registry.yarnpkg.com/react-side-effect/-/react-side-effect-2.1.2.tgz#dc6345b9e8f9906dc2eeb68700b615e0b4fe752a"
   integrity sha512-PVjOcvVOyIILrYoyGEpDN3vmYNLdy1CajSFNt4TDsVQC5KpTijDvWVoR+/7Rz2xT978D8/ZtFceXxzsPwZEDvw==
 
+react-spotify-embed@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/react-spotify-embed/-/react-spotify-embed-1.0.4.tgz#392dcce4d188a9faf7cae0119a201954dbd7692a"
+  integrity sha512-pgDh/K2KlmZ6z+18EHgTfsnZDNeHGsck+VIIbM/bC5qkE57YIwkxaTNMq9CzgB6jXDjjjRgAdU5j8cmNsB8L2w==
+  dependencies:
+    react "^18.2.0"
+    react-dom "^18.2.0"
+
 react-transition-group@^4.4.5:
   version "4.4.5"
   resolved "https://registry.yarnpkg.com/react-transition-group/-/react-transition-group-4.4.5.tgz#e53d4e3f3344da8521489fbef8f2581d42becdd1"

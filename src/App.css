@@ -12,3 +12,12 @@
   font-family: "Lato";
 }
 
+.spotify {
+  position: absolute;
+  box-sizing: border-box;
+  left: 0%;
+  top: 85%;
+  padding-left: 5rem;
+  padding-right: 90rem;
+
+}
