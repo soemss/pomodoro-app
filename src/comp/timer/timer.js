@@ -14,7 +14,7 @@ const alarm = new Howl({
 });
 
 let studyTime = 1.5e6;
-let shortBreak = 300000;
+let shortBreak = 600000;
 let longBreak = 900000;
 
 // let studyTime = 15000;
